@@ -13,10 +13,11 @@ int main()
         cout<<endl;
     }
 }
-//output:
+/*output:
 *
 **
 ***
 ****
 *****
+*/
 
