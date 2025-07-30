@@ -1,6 +1,6 @@
 # C-plus-plus-Decision-Making-Statements-Loops
-# 🔁 Experiment 6 
-## 🎯 Objective
+# Experiment 6 
+## Objective
 
 To understand, analyze, and implement **looping mechanisms** in C++ programming. This includes using:
 - `for` loops
@@ -11,9 +11,9 @@ The goal is to gain clarity on their syntactic structure, logical flow, and suit
 
 ---
 
-## 📚 Background Theory
+## Background Theory
 
-### 🔄 What is a Loop?
+### What is a Loop?
 
 A **loop** in programming is a control structure that allows repeated execution of a block of code based on a defined condition. Loops are a fundamental concept in structured programming, enabling concise and efficient code by reducing redundancy.
 
@@ -21,9 +21,9 @@ Loops are categorized as **entry-controlled** (e.g., `for`, `while`) and **exit-
 
 ---
 
-## 🧱 Types of Loops in C++
+## Types of Loops in C++
 
-### 1️⃣ `for` Loop
+###  1 `for` Loop
 
 #### ➤ Description:
 - Best used when the number of iterations is **known in advance**.
@@ -43,7 +43,7 @@ Loops are categorized as **entry-controlled** (e.g., `for`, `while`) and **exit-
 
 ---
 
-### 2️⃣ `while` Loop
+### 2️ `while` Loop
 
 #### ➤ Description:
 - Used when the number of iterations is **not predetermined**.
@@ -61,7 +61,7 @@ Loops are categorized as **entry-controlled** (e.g., `for`, `while`) and **exit-
 
 ---
 
-### 3️⃣ `do-while` Loop
+### 3️`do-while` Loop
 
 #### ➤ Description:
 - Similar to `while` loop, but the **condition is checked after** the body is executed.
@@ -78,7 +78,7 @@ Loops are categorized as **entry-controlled** (e.g., `for`, `while`) and **exit-
 
 ---
 
-## 🔍 Comparative Summary
+## Comparative Summary
 
 | Feature              | `for` Loop                | `while` Loop              | `do-while` Loop              |
 |----------------------|---------------------------|---------------------------|------------------------------|
@@ -89,7 +89,7 @@ Loops are categorized as **entry-controlled** (e.g., `for`, `while`) and **exit-
 
 ---
 
-## 🧪 Educational Value
+## Educational Value
 
 This experiment serves as the foundation for:
 - Designing **efficient control flows** in programs.
@@ -102,7 +102,7 @@ This experiment serves as the foundation for:
 
 ---
 
-## ✅ Learning Outcomes
+## Learning Outcomes
 
 Upon completion, students will:
 - Understand different loop types and their execution behavior.
